@@ -1,9 +1,9 @@
 # Site settings
 title: AB Blog
 SEOTitle: AB Blog | Walking in Data World
-header-img: img/post-bg-desk.jpg
+header-img: img/my-header.jpg
 email: androidbaby@hotmail.com
-description: "Every failure is leading towards success."
+description: ""
 keyword: "Data Science, Psychology, Statistics"
 url: "http://androidbaaaby.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,8 +11,8 @@ github_repo: "https://github.com/AndroidBaaaby/androidbaaaby.github.io" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Harden yourself."
-sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: “数据料理人"
+sidebar-avatar: /img/my-avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
