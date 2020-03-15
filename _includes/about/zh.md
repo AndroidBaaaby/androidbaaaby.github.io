@@ -7,7 +7,7 @@
 成长离不开伙伴与导师  
 发现这里的你如若不嫌  
 交个朋友吧👇  
-[Weibo](!https://weibo.com/androidbaaaby) / [知乎](!zhihu.com/people/androidbaaaby)
+[Weibo](https://weibo.com/androidbaaaby) / [知乎](https://zhihu.com/people/androidbaaaby)
 
 ## "数据料理人"
 喜欢美食 热爱料理  
