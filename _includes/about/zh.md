@@ -2,12 +2,11 @@
 一个写过 Android 的 Baby  
 但是  
 已转世投胎成了数据分析的 Baby  
-￼￼￼期待自己早日长大成人🤣
+期待自己早日长大成人🤣
 
 成长离不开伙伴与导师  
-发现这里的你如若不嫌  
-交个朋友吧👇  
-[Weibo](https://weibo.com/androidbaaaby) / [知乎](https://zhihu.com/people/androidbaaaby)
+发现这里的你 如若不嫌  
+交个朋友吧
 
 ## "数据料理人"
 喜欢美食 热爱料理  
